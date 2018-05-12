@@ -4,7 +4,7 @@ contributor:
   illustrator:
     agent_name: Newell, Peter
     alias: Newell, P. S. (Peter S.)
-    birthdate: &id001 1862
+    birthdate: 1862
     deathdate: 1924
     gutenberg_agent_id: '7143'
     url: http://www.gutenberg.org/2009/agents/7143
@@ -14,7 +14,7 @@ covers:
 creator:
   author:
     agent_name: Bangs, John Kendrick
-    birthdate: *id001
+    birthdate: 1862
     deathdate: 1922
     gutenberg_agent_id: '979'
     url: http://www.gutenberg.org/2009/agents/979
@@ -23,6 +23,8 @@ description: A house-boat floats down the river Styx, which must be crossed to e
   the afterworld. At the end of A House-Boat on the Styx Captain Kidd hijacks the
   boat. In this sequel, the houseboat club-members hire Sherlock Holmes (at that point
   in history declared dead by his creator) to investigate the matter.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16097#The-Pursuit-of-the-House-BoatBeing-Some-Further-Account-of-the-Divers-Doings-of-the-Associate_
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2005-07-13'
 gutenberg_type: Text
