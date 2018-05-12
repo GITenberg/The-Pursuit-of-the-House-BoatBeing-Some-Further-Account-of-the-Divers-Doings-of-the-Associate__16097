@@ -1,0 +1,45 @@
+_repo: The-Pursuit-of-the-House-BoatBeing-Some-Further-Account-of-the-Divers-Doings-of-the-Associate__16097
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Newell, Peter
+    alias: Newell, P. S. (Peter S.)
+    birthdate: &id001 1862
+    deathdate: 1924
+    gutenberg_agent_id: '7143'
+    url: http://www.gutenberg.org/2009/agents/7143
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bangs, John Kendrick
+    birthdate: *id001
+    deathdate: 1922
+    gutenberg_agent_id: '979'
+    url: http://www.gutenberg.org/2009/agents/979
+    wikipedia: http://en.wikipedia.org/wiki/John_Kendrick_Bangs
+description: A house-boat floats down the river Styx, which must be crossed to enter
+  the afterworld. At the end of A House-Boat on the Styx Captain Kidd hijacks the
+  boat. In this sequel, the houseboat club-members hire Sherlock Holmes (at that point
+  in history declared dead by his creator) to investigate the matter.
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2005-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16097'
+  lccn: '06006121'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Doyle, Arthur Conan, 1859-1930 -- Parodies, imitations, etc.'
+- !lcsh 'Holmes, Sherlock (Fictitious character) -- Fiction'
+title: 'The Pursuit of the House-Boat
+
+  Being Some Further Account of the Divers Doings of the Associated Shades, under
+  the Leadership of Sherlock Holmes, Esq.'
+url: http://www.gutenberg.org/ebooks/16097
